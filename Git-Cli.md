@@ -10,3 +10,7 @@
 # Git login
 
 1. You don't need to login in the git version control. However, setting the username and email is required.
+     ```
+     git config --global user.name "Full Name"
+     git config --global user.email "email@address.com"
+     ```
