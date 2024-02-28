@@ -26,3 +26,5 @@
      for our use case we wil select `github.com`
      
      ![Screenshot 2024-02-27 225009](https://github.com/AniJadeja/Git-From-cli/assets/65672780/6eb4d470-c532-4b13-a644-8beb3e909b38)
+
+     For this instance we will select `https`
