@@ -30,3 +30,4 @@
      For this instance we will select `https`
 
      ![Screenshot 2024-02-27 225147](https://github.com/AniJadeja/Git-From-cli/assets/65672780/898c9ccb-58f8-45fe-b1ac-6b1070842399)
+     Then as we want to use the github account press `y`
