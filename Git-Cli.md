@@ -23,3 +23,5 @@
      ```
      gh auth login
      ```
+     for our use case we wil select `github.com`
+     
