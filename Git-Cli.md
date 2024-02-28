@@ -14,3 +14,4 @@
      git config --global user.name "Full Name"
      git config --global user.email "email@address.com"
      ```
+     So for me it will look like this.
