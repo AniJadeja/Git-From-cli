@@ -20,5 +20,6 @@
      git config --global user.email "anirudhdhsinhj@gmail.com"
      ```
 2. You will need to login in the github cli.
-    
-     
+     ```
+     gh auth login
+     ```
