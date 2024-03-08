@@ -32,3 +32,16 @@
      ![Screenshot 2024-02-27 225147](https://github.com/AniJadeja/Git-From-cli/assets/65672780/898c9ccb-58f8-45fe-b1ac-6b1070842399)
      Then as we want to use the github account press `y`
      ![Screenshot 2024-02-27 225452](https://github.com/AniJadeja/Git-From-cli/assets/65672780/efc6ffb2-ad12-49c7-b86f-c8b562e97a4a)
+
+
+
+
+
+NOTE : To create a custom git command, run 
+     
+    ```
+    git config --global alias.current '!git push origin $(git symbolic-ref --short HEAD)'
+
+    ```
+
+Then you can run `git current` and it will run the `git push origin...`
