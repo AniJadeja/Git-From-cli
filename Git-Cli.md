@@ -41,10 +41,9 @@
 4. After that you will be provided with a six digit code. 
 
      ![Screenshot 2024-03-18 225212](https://github.com/AniJadeja/Git-From-cli/assets/65672780/ad37b707-1875-4ac5-bd6b-298dedbcedf5)
-
-     ![image](https://github.com/AniJadeja/Git-From-cli/assets/65672780/3cc20749-5132-4638-8638-f50a0c97b8a1)
-5. Copy the code
-6. Press Enter
+   
+6. Copy the code
+7. Press Enter
 
 NOTE : To create a custom git command, run 
      
