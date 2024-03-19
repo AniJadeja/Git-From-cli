@@ -44,7 +44,7 @@
    
 6. Copy the code
 7. Press Enter
-
+8. This will open a new browser window. 
 NOTE : To create a custom git command, run 
      
     ```
