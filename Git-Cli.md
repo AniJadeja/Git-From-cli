@@ -43,6 +43,7 @@
      ![Screenshot 2024-03-18 225212](https://github.com/AniJadeja/Git-From-cli/assets/65672780/ad37b707-1875-4ac5-bd6b-298dedbcedf5)
 
 5. Copy the code
+6. Press Enter
 
 NOTE : To create a custom git command, run 
      
