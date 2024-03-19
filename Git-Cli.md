@@ -45,7 +45,7 @@
 6. Copy the code
 7. Press Enter
 8. This will open a new browser window.
-
+9. Select the account you want to sign in
 
 
 NOTE : To create a custom git command, run 
