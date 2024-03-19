@@ -50,8 +50,9 @@
      ![Screenshot 2024-03-18 225637](https://github.com/AniJadeja/Git-From-cli/assets/65672780/c06cc3ad-6e75-4cc9-a887-5c0056d2917c)
 
 10. Paste the code in the browser window.
-
      
+     ![Screenshot 2024-03-18 225948](https://github.com/AniJadeja/Git-From-cli/assets/65672780/84a4145a-ee1e-4946-9f9c-9da2720415fd)
+
 
 NOTE : To create a custom git command, run 
      
