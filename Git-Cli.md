@@ -55,7 +55,8 @@
 
 11. This will ask you for the authorization.
 
-     
+     ![Screenshot 2024-03-18 230146](https://github.com/AniJadeja/Git-From-cli/assets/65672780/d0e3c2a5-183a-4079-b74f-7ae645e8d9a9)
+
 
 
 NOTE : To create a custom git command, run 
