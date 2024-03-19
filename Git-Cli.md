@@ -38,6 +38,7 @@
      for this example, choose Login with a browser.
      ![Screenshot 2024-03-18 225023](https://github.com/AniJadeja/Git-From-cli/assets/65672780/2901cd59-c024-41b4-8552-6ccddce1301e)
 
+4. After that you will be provided with a six digit code. 
 
 
 NOTE : To create a custom git command, run 
