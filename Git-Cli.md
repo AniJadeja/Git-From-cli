@@ -39,6 +39,7 @@
      ![Screenshot 2024-03-18 225023](https://github.com/AniJadeja/Git-From-cli/assets/65672780/2901cd59-c024-41b4-8552-6ccddce1301e)
 
 4. After that you will be provided with a six digit code. 
+
      ![Screenshot 2024-03-18 225212](https://github.com/AniJadeja/Git-From-cli/assets/65672780/ad37b707-1875-4ac5-bd6b-298dedbcedf5)
 
 
