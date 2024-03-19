@@ -34,6 +34,7 @@
      ![Screenshot 2024-02-27 225452](https://github.com/AniJadeja/Git-From-cli/assets/65672780/efc6ffb2-ad12-49c7-b86f-c8b562e97a4a)
 
 3. Then you will be asked to choose a method
+
      for this example, choose Login with a browser.
      
 
