@@ -49,6 +49,7 @@
 
      ![Screenshot 2024-03-18 225637](https://github.com/AniJadeja/Git-From-cli/assets/65672780/c06cc3ad-6e75-4cc9-a887-5c0056d2917c)
 
+10. Paste the code in the browser window.
 
 NOTE : To create a custom git command, run 
      
