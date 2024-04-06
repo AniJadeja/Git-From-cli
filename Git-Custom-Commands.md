@@ -11,4 +11,6 @@ git push origin <branchName>
 Now it is possible that I have a long branchname. 
 For example, `feature/system-users-login` or `issue/21-system-users-login` etc.
 
-In this case my command will look like this, `git push origin feature/system-users-login`
+In this case my command will look like this, `git push origin feature/system-users-login` 
+
+or `git push origin issue/21-system-users-login`
