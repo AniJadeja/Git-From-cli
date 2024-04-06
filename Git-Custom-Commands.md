@@ -2,3 +2,5 @@
 
 custom commands helps us to solve problems of writing full lenghy commands.
 It can be used when you repeatedly use lengthy commands. 
+
+For me one scenario is, I want to push the code to current branch.
