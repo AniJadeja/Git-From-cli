@@ -52,13 +52,3 @@
 
      ![Screenshot 2024-03-18 230501](https://github.com/AniJadeja/Git-From-cli/assets/65672780/635858f5-fd20-4fe6-b2d3-30f4f5f4a969)
 
-     
-
-NOTE : To create a custom git command, run 
-     
-    ```
-    git config --global alias.current '!git push origin $(git symbolic-ref --short HEAD)'
-
-    ```
-
-Then you can run `git current` and it will run the `git push origin...`
