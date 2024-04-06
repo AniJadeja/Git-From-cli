@@ -5,3 +5,6 @@ It can be used when you repeatedly use lengthy commands.
 
 For me one scenario is, I want to push the code to current branch.
 I typically need to write, 
+```
+git push origin <branchName>
+```
