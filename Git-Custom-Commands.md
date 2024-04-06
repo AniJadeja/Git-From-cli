@@ -22,6 +22,8 @@ So the solution is a custom command.
 To create a custom command to push to the current branch , we will write following. 
      
 ```
-git config --global alias.current '!git push origin $(git symbolic-ref --short HEAD)'
+git config --global alias.post '!git push origin $(git symbolic-ref --short HEAD)'
 ```
+
+
 
