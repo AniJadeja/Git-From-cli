@@ -16,3 +16,5 @@ In this case my command will look like this, `git push origin feature/system-use
 or `git push origin issue/21-system-users-login`
 
 Issue is I am repeatedly writing `push origin <branchName>` and not to mention long branch name.
+
+So the solution is a custom command. 
