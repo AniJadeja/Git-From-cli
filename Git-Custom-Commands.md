@@ -31,3 +31,5 @@ So the final command will look exactly like this.
 ```
 git post
 ```
+
+Now everytime you run `git post` it will push the code to current branch. 
