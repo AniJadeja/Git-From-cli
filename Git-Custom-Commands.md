@@ -18,3 +18,11 @@ or `git push origin issue/21-system-users-login`
 Issue is I am repeatedly writing `push origin <branchName>` and not to mention long branch name.
 
 So the solution is a custom command. 
+
+To create a custom command to push to the current branch , we will write following. 
+     
+```
+git config --global alias.current '!git push origin $(git symbolic-ref --short HEAD)'
+
+```
+
