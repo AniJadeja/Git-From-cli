@@ -9,4 +9,4 @@ I typically need to write,
 git push origin <branchName>
 ```
 Now it is possible that I have a long branchname. 
-For example, `feature/system-users-login`
+For example, `feature/system-users-login` or `issue/21-system-users-login`
