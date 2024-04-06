@@ -28,3 +28,6 @@ git config --global alias.post '!git push origin $(git symbolic-ref --short HEAD
 This will create a command locally which will sutomatically push to the current branch on the head.
 
 So the final command will look exactly like this. 
+```
+git post
+```
