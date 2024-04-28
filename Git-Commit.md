@@ -29,3 +29,6 @@ Git has a proper way of committing the code. You cannot commit them directly.
 3. Message can be anything. However, a descriptive message is a good idea. The commit message is there to describe what changes have been made to the code.
 4. If a commit message is too long, then you might wanna avoid the one line message.
 5. To add a multiline message to the commit do not add `-m` flag.
+    ```
+    git commit
+    ```
