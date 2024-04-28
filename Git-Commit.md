@@ -19,4 +19,6 @@ Git has a proper way of committing the code. You cannot commit them directly.
    ```
    git add ./somefolder/somefile.someextension
    ```
+
+2. After adding all the files to the staging area, you write commit command to commit them. The command takes `-m` as a message argument.
    
