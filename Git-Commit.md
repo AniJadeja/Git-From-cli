@@ -25,4 +25,6 @@ Git has a proper way of committing the code. You cannot commit them directly.
    ```
    git commit -m "Some message"
    ```
+
+3. Message can be anything. However, a descriptive message is a good idea. The commit message is there to describe what changes have been made to the code.
    
