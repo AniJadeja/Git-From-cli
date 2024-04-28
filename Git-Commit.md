@@ -21,4 +21,8 @@ Git has a proper way of committing the code. You cannot commit them directly.
    ```
 
 2. After adding all the files to the staging area, you write commit command to commit them. The command takes `-m` as a message argument.
+
+   ```
+   git commit -m "Some message"
+   ```
    
