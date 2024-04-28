@@ -33,3 +33,5 @@ Git has a proper way of committing the code. You cannot commit them directly.
     git commit
     ```
    This will open up the editor and you will be able to write multiline commits.
+
+   All the commits are stored locally and does not get upadated on the repository on your github account.
