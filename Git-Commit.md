@@ -32,3 +32,4 @@ Git has a proper way of committing the code. You cannot commit them directly.
     ```
     git commit
     ```
+   This will open up the editor and you will be able to write multiline commits.
