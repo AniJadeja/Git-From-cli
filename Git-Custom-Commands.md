@@ -1,4 +1,4 @@
-#Git custom commands
+# Git custom commands
 
 custom commands helps us to solve problems of writing full lenghy commands.
 It can be used when you repeatedly use lengthy commands. 
@@ -46,3 +46,14 @@ Similarly this command will ask for a commit message and upon saving the commit 
 git config --global alias.commitPost '!git commit && !git push origin $(git symbolic-ref 
 --short HEAD)'
 ```
+
+## Setup
+
+```
+git config --global alias.post '!git push origin $(git symbolic-ref --short HEAD)'
+git config --global alias.get '!git pull origin $(git symbolic-ref --short HEAD)'
+git config --global alias.commitPost '!git commit && !git push origin $(git symbolic-ref 
+--short HEAD)'
+```
+
+
