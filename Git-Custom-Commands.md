@@ -40,3 +40,9 @@ Similary we can create a command which will pull from remote on the current bran
 ```
  git config --global alias.get '!git pull origin $(git symbolic-ref --short HEAD)'
 ```
+
+Similarly this command will ask for a commit message and upon saving the commit message it will push the code.
+```
+git config --global alias.commitPost '!git commit && !git push origin $(git symbolic-ref 
+--short HEAD)'
+```
