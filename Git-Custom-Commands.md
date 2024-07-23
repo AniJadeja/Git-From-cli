@@ -43,7 +43,7 @@ Similary we can create a command which will pull from remote on the current bran
 
 Similarly this command will stage all the files, ask for a commit message and upon saving the commit message it will push the code.
 ```
-git config --global alias.commitPost '!git add . && !git commit && !git push origin $(git symbolic-ref --short HEAD)'
+git config --global alias.commitPost '!git add . && git commit && git push origin $(git symbolic-ref --short HEAD)'
 ```
 
 ## Setup
@@ -51,7 +51,7 @@ git config --global alias.commitPost '!git add . && !git commit && !git push ori
 ```
 git config --global alias.post '!git push origin $(git symbolic-ref --short HEAD)'
 git config --global alias.get '!git pull origin $(git symbolic-ref --short HEAD)'
-git config --global alias.commitPost '!git add . && !git commit && !git push origin $(git symbolic-ref --short HEAD)'
+git config --global alias.commitPost '!git add . && git commit && git push origin $(git symbolic-ref --short HEAD)'
 ```
 
 
