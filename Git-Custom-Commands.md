@@ -33,3 +33,10 @@ git post
 ```
 
 Now everytime you run `git post` it will push the code to current branch. 
+
+
+Similary we can create a command which will pull from remote on the current branch.
+
+```
+ git config --global alias.get '!git pull origin $(git symbolic-ref --short HEAD)'
+```
