@@ -71,8 +71,9 @@ chmod +x "$migrate_script_path"
 
 # Set up Git aliases
 add_git_alias "migrateChanges" "!sh $migrate_script_path"
-add_git_alias "post" "!git push origin \$(git symbolic-ref --short HEAD)"
-add_git_alias "get" "!git pull origin \$(git symbolic-ref --short HEAD)"
-add_git_alias "commitPost" "!git add . && git commit && git push origin \$(git symbolic-ref --short HEAD)"
+git config --global alias.post "!git push origin $(git symbolic-ref --short HEAD)"
+git config --global alias.get "!git pull origin $(git symbolic-ref --short HEAD)"
+git config --global alias.commitPost "!git add . && git commit && git push origin $(git symbolic-ref --short HEAD)"
+
 
 echo "Custom Git commands have been set up successfully."
